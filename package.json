@@ -1,0 +1,13 @@
+{
+    "name": "gpl-auction",
+    "version": "1.0.0",
+    "description": "Player auction for the IIT Goa Premier League",
+    "main": "serve.js",
+    "scripts": {
+        "start": "node serve.js",
+        "test": "node --test test.js"
+    },
+    "dependencies": {
+        "express": "^5.1.0"
+    }
+}
